@@ -1,0 +1,66 @@
+/build/
+/dist/
+nbproject/private/private.properties
+nbproject/private/private.xml
+nbproject/project.properties
+/nbproject/private/
+
+# NetBeans specific folders
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Maven specific folders (if using Maven)
+target/
+*.war
+*.ear
+
+# Ignore log files and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+/.idea/
+/*.iml
+/.vscode/
+
+# Ignore class files and compiled Java files
+*.class
+
+# Ignore IntelliJ IDEA files if used with NetBeans
+.idea/
+*.ipr
+*.iws
+*.iml
+
+# Ignore Windows file that store thumbnails
+Thumbs.db
+
+# Ignore Linux/Mac file that might be created automatically
+*.DS_Store
+
+# Ignore configurations for other build tools if not needed
+.gradle/
+/.gradle/
+/.gradle/
+/out/
+
+# Ignore all files in /lib except your JAR dependencies if manually added
+lib/*
+nbproject/private/private.properties
+nbproject/private/private.xml
+nbproject/project.properties
+
+nbproject/project.properties
+nbproject/private/private.properties
+nbproject/private/private.xml
